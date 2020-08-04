@@ -1,5 +1,5 @@
-- Anti-Github avatar explaination: <https://huit.re/lanodan-github-issue>
-- About Me: <https://hacktivis.me/about>
+- <a href="https://hacktivis.me/articles/My%20issue%20with%20Github%20(and%20Microsoft%20buying%20it)">My issue with Github (and Microsoft buying it)</a>
+- <a href="https://hacktivis.me/about">About Me</a> (includes contact links)
 
 Please note that I only use github for projects that are stuck on it, consider only using it as a hub for mirrors.
 
